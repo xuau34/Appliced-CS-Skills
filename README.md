@@ -1,6 +1,6 @@
 # applied_cs_skills
 
-A new Flutter project.
+Thought to finish all workshop in applied cs skills, a tutorial web of Google. But there's no starter code for flutter, only for java. So here I am, to write down description that I'm going to do other project first~
 
 ## Getting Started
 
